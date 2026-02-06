@@ -6,6 +6,8 @@ Write down your fleeting thoughts and watch them drift, bounce, and swim around 
 Perfect for minds that thrive on visual, non-linear organization. Jot down ideas rapidly, let them float freely, then interact to prioritize, complete, or refine them. Pair it with calming background music and turn brainstorming sessions into flow states.
 
 <img width="1275" height="717" alt="image" src="https://github.com/user-attachments/assets/faed8e4c-07a9-4c1a-b2fa-10422bd5f442" />
+<img width="1279" height="720" alt="image" src="https://github.com/user-attachments/assets/57367e00-9424-46d4-9860-f8dfcaedb268" />
+
 
 
 ## Highlights
