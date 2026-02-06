@@ -17,7 +17,7 @@
 - **Screensaver Mode** – Full-screen idle mode after configurable minutes (5–60) with enlarged tasks and slower movement.
 - **Tray Support** – Minimize to system tray with icon, optional mute on minimize.
 - **Startup & Persistence** – Optional run on Windows startup, start minimized, side panel open state preserved.
-- **Undo** – Full undo support for add, delete, complete, priority, lock, and category changes (Ctrl+Z).
+- **Undo** – Full undo support for add, delete, complete, priority, lock, and category changes (Z).
 - **Import/Export** – CSV import/export for tasks and categories.
 - **Custom Cursors** – 12 themed cursors + default arrow.
 - **Highly Configurable** – Font family/size, colors for every priority/state, strikethrough completed, title bar options (category name, task counter, ticker), display presets (Small to X-Large).
