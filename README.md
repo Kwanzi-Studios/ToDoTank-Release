@@ -1,4 +1,4 @@
-# Thought Aquarium
+# ToDo Tank
 
 The ultimate to-do list for abstract thinkers.  
 Write down your fleeting thoughts and watch them drift, bounce, and swim around the window like fish in a tank — gently reminding you of everything you need to do while you sort through ideas, brainstorm, or simply enjoy the ambient motion.
